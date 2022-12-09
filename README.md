@@ -1,0 +1,1 @@
+# 6-Step-BLDC-Motor-Commutation-Algorithm
